@@ -1,0 +1,14 @@
+streamlit
+torch
+numpy
+pandas
+scikit-learn
+joblib
+shap
+plotly
+fpdf
+pdfplumber
+python-docx
+docx2txt
+PyPDF2
+matplotlib
